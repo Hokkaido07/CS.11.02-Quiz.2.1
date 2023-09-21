@@ -19,8 +19,8 @@ public class Main {
         String name;
         String resultTwo;
         String toBePrinted;
-
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Please Enter a Number: ");
         numOne = scanner.nextInt();
         System.out.println("Please Enter another Number: ");

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
-    This is Quiz 2.1 about Methods.
+    This is Quiz 2.1 about Methods. There will be four methods created below and printed.
     Author: Alexis C
     Date: 09-21-2023
  */
